@@ -21,7 +21,7 @@ function App() {
 
 
   return (
-    <div className="w-full min-h-screen px-4 py-8 -cover bg-[url('https://courses.ansys.com/wp-content/uploads/2020/04/DM_03242016_11131-scaled.jpg')]"> 
+    <div className="w-full min-h-screen px-4 py-8 bg-center bg-fixed bg-cover bg-[url('https://courses.ansys.com/wp-content/uploads/2020/04/DM_03242016_11131-scaled.jpg')]"> 
         <div class="max-w-xl mx-auto text-center">
         <div className="input w-auto align-center">
       <input type="text" name='search'  placeholder='Search City' aria-label='Search City'autoComplete='off'
